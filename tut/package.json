@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "area": "^0.0.2",
+    "circular": "^1.0.5"
+  }
+}
